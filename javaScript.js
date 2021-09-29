@@ -9,4 +9,4 @@ const update = () => {
     let logupdate = `<div>${expression} <div class='result'> = ${result}</div> </div><hr>`;
     log.innerHTML += logupdate;
     console.log(logupdate);
-}
+}vfvgfdfdsfdsfs
